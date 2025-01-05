@@ -26,6 +26,6 @@ class Solution {
         // Add all groups of anagrams to the result list
         ans.addAll(map.values());
         
-        return ans;
+        return ans; 
     }
 }
