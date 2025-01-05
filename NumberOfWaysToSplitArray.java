@@ -18,7 +18,7 @@ class Solution {
     }
 }
 
-//Optimal TC - O(2n) SC - O(1)
+//Optimal TC - O(2n) SC - O(1) 
 class Solution {
     public int waysToSplitArray(int[] nums) {
         int n = nums.length;
