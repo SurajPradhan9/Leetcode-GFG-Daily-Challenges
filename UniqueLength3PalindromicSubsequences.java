@@ -18,7 +18,7 @@ class Solution {
                     }
                     last = i;
                 }
-            }
+            } 
             if(first == last) continue;
             HashSet<Character> set1 = new HashSet<>();
             for(int i=first+1;i<last;i++){
