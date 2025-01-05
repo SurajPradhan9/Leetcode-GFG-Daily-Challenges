@@ -3,7 +3,7 @@ class Solution {
     public long subarrayXor(int arr[], int k) {
         // code here
         
-        //Optimal TC - O(n) SC - O(n)
+        //Optimal TC - O(n) SC - O(n) 
         int n=arr.length;
         HashMap<Integer,Integer> map=new HashMap<>();
         int count=0;
