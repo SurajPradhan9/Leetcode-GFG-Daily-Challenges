@@ -1,4 +1,4 @@
-import java.util.*; 
+import java.util.*;
 class Solution {
     public int countSubarrays(int arr[], int k) {
         int n=arr.length;
