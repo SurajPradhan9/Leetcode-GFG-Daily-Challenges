@@ -1,4 +1,4 @@
-//Bruteforce TC - O(m*n) SC - O(m)
+//Bruteforce TC - O(m*n) SC - O(m) 
 class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n=words.length;
