@@ -1,4 +1,4 @@
-//Bruteforce TC - O(n^2) SC - O(1) 
+//Bruteforce TC - O(n^2) SC - O(1)
 class Solution {
     public int maxScore(String s) {
         int n=s.length();
